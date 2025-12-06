@@ -8,7 +8,7 @@ date: 2025-07-14
 location: "Jakarta, Indonesia"
 ---
 
-As part of my role as an Informatics, Coding, and Artificial Intelligence instructor at **SMKN 31 Jakarta**, I had the unique opportunity (and mild existential crisis xD) of teaching **freshman high school students** topics that—if we're being honest—were never meant to be encountered by humans who just learned what a _computer_ is.
+As part of my role as an Informatics, Coding, and Artificial Intelligence instructor at **SMKN 31 Jakarta** (one of national highschool in Jakarta), I had the unique opportunity (and mild existential crisis xD) of teaching **freshman high school students** topics that—if we're being honest—were never meant to be encountered by humans who just learned what a _computer_ is.
 
 Despite this, the classes became an unexpectedly exciting adventure in educational chaos, structured learning, and the occasional "Sir… why does the CPU have _stages_?" moments.
 
